@@ -214,3 +214,10 @@ Run the application on an emulator or physical device.
 ## Conclusion
 
 Medway is a scalable healthcare solution that enhances elderly care through real-time monitoring, automation, and efficient communication between patients, caregivers, and healthcare providers.
+
+---
+
+## LICENSE
+
+This Project is under Apache 2.0 LICENSE
+See the LICENSE file for details.
