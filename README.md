@@ -155,13 +155,19 @@ Choose your role:
 
 ## Screenshots
 
-Add your screenshots inside a folder named `screenshots` and use:
+<img width="573" height="1260" alt="image" src="https://github.com/user-attachments/assets/212086dc-2371-4a50-a0ef-cf6fd69e4ebf" />
+<img width="551" height="1259" alt="image" src="https://github.com/user-attachments/assets/f08f9e1b-c55b-44ad-af71-3c7b852385a1" />
+<img width="582" height="1260" alt="image" src="https://github.com/user-attachments/assets/7c6871db-0fb2-44a4-955a-db5e7eefcf67" />
+<img width="607" height="1260" alt="image" src="https://github.com/user-attachments/assets/47b0c7ac-913a-4242-b256-aa899bce4b15" />
+<img width="624" height="1243" alt="image" src="https://github.com/user-attachments/assets/0e01c98a-7458-419e-b8c2-e131a0ad595a" />
+<img width="585" height="1282" alt="image" src="https://github.com/user-attachments/assets/0191c221-a7bf-4ae8-a1b0-f41455d12714" />
+<img width="615" height="1369" alt="image" src="https://github.com/user-attachments/assets/41c6f783-f2ee-4b3a-bf49-0ffc35081153" />
+<img width="650" height="1369" alt="image" src="https://github.com/user-attachments/assets/08aa6a03-0005-4474-a532-57d62500d8a5" />
+<img width="574" height="1283" alt="image" src="https://github.com/user-attachments/assets/f8e34bc0-f0c8-4353-9185-8168cdd175cf" />
+<img width="600" height="1283" alt="image" src="https://github.com/user-attachments/assets/6545ebb4-076c-4393-8d9b-4d7fad7041d6" />
+<img width="574" height="1283" alt="image" src="https://github.com/user-attachments/assets/cadb3e7b-f88b-4380-bc09-917dde5ac43f" />
 
-```md
-![Dashboard](screenshots/dashboard.png)
-![Heart Rate](screenshots/heartrate.png)
-![Appointment](screenshots/appointment.png)
-![Pharmacy](screenshots/pharmacy.png)
+
 ```
 
 ---
